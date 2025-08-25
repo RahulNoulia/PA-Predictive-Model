@@ -1,0 +1,8 @@
+# Basic ML stack
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+faker
