@@ -13,6 +13,7 @@ def generate_dummy_ncpdp_data(num_records: int = 20000, output_file: str = "ncpd
 
     Returns:
         pd.DataFrame: Generated dataset.
+
     """
     fake = Faker()
 
